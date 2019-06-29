@@ -1,0 +1,9 @@
+Brief History of Java
+
+Java©, having been developed in 1991, is a relatively new programming language. At that time, James Gosling from Sun Microsystems© and his team began designing the first version of Java aimed at programming home appliances which are controlled by a wide variety of computer processors.
+
+Gosling's new language needed to be accessible by a variety of computer processors. In 1994, he realized that such a language would be ideal for use with web browsers and Java's connection to the internet began. In 1995, Netscape Incorporated released its latest version of the Netscape browser which was capable of running Java programs.
+
+Why is it called Java? It is customary for the creator of a programming language to name the language anything he/she chooses. The original name of this language was Oak, until it was discovered that a programming language already existed that was named Oak. As the story goes, after many hours of trying to come up with a new name, the development team went out for coffee and the name Java was born.
+
+While Java is viewed as a programming language to design applications for the Internet, it is in reality a general all purpose language which can be used independent of the Internet.
